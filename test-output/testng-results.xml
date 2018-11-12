@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2916" started-at="2018-11-12T19:52:33Z" finished-at="2018-11-12T19:52:36Z">
+  <suite name="Default suite" duration-ms="2971" started-at="2018-11-12T21:56:54Z" finished-at="2018-11-12T21:56:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2916" started-at="2018-11-12T19:52:33Z" finished-at="2018-11-12T19:52:36Z">
+    <test name="Default test" duration-ms="2971" started-at="2018-11-12T21:56:54Z" finished-at="2018-11-12T21:56:57Z">
       <class name="featureTests.Tests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:featureTests.Tests@4b9e13df]" name="setUp" is-config="true" duration-ms="3665" started-at="2018-11-12T19:52:30Z" finished-at="2018-11-12T19:52:33Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:featureTests.Tests@4b9e13df]" name="setUp" is-config="true" duration-ms="3291" started-at="2018-11-12T21:56:51Z" finished-at="2018-11-12T21:56:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyHomePage()[pri:0, instance:featureTests.Tests@4b9e13df]" name="verifyHomePage" duration-ms="56" started-at="2018-11-12T19:52:33Z" finished-at="2018-11-12T19:52:33Z">
+        <test-method status="PASS" signature="verifyHomePage()[pri:0, instance:featureTests.Tests@4b9e13df]" name="verifyHomePage" duration-ms="66" started-at="2018-11-12T21:56:54Z" finished-at="2018-11-12T21:56:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePage -->
-        <test-method status="PASS" signature="searchArticle()[pri:1, instance:featureTests.Tests@4b9e13df]" name="searchArticle" duration-ms="1557" started-at="2018-11-12T19:52:33Z" finished-at="2018-11-12T19:52:35Z">
+        <test-method status="PASS" signature="searchArticle()[pri:1, instance:featureTests.Tests@4b9e13df]" name="searchArticle" duration-ms="1777" started-at="2018-11-12T21:56:54Z" finished-at="2018-11-12T21:56:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchArticle -->
-        <test-method status="PASS" signature="verifyArticleSection()[pri:2, instance:featureTests.Tests@4b9e13df]" name="verifyArticleSection" duration-ms="389" started-at="2018-11-12T19:52:35Z" finished-at="2018-11-12T19:52:35Z">
+        <test-method status="PASS" signature="verifyArticleSection()[pri:2, instance:featureTests.Tests@4b9e13df]" name="verifyArticleSection" duration-ms="407" started-at="2018-11-12T21:56:56Z" finished-at="2018-11-12T21:56:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyArticleSection -->
-        <test-method status="PASS" signature="verifyStudioAlbumToolTip()[pri:3, instance:featureTests.Tests@4b9e13df]" name="verifyStudioAlbumToolTip" duration-ms="890" started-at="2018-11-12T19:52:35Z" finished-at="2018-11-12T19:52:36Z">
+        <test-method status="PASS" signature="verifyStudioAlbumToolTip()[pri:3, instance:featureTests.Tests@4b9e13df]" name="verifyStudioAlbumToolTip" duration-ms="694" started-at="2018-11-12T21:56:57Z" finished-at="2018-11-12T21:56:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStudioAlbumToolTip -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:featureTests.Tests@4b9e13df]" name="tearDown" is-config="true" duration-ms="98" started-at="2018-11-12T19:52:36Z" finished-at="2018-11-12T19:52:36Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:featureTests.Tests@4b9e13df]" name="tearDown" is-config="true" duration-ms="94" started-at="2018-11-12T21:56:57Z" finished-at="2018-11-12T21:56:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -5,11 +5,8 @@
     <classes>
       <class name="featureTests.Tests">
         <methods>
-          <include name="verifyArticleSection"/>
           <include name="tearDown"/>
-          <include name="verifyHomePage"/>
           <include name="setUp"/>
-          <include name="searchArticle"/>
           <include name="verifyStudioAlbumToolTip"/>
         </methods>
       </class> <!-- featureTests.Tests -->
