@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Clone repository to your local folder
 ```
-$ git clone https://github.com/jlomeli/SP-Automation-Challenge
+$ git clone https://github.com/jlomeli/SP-Automation-Challenge.git
 ```
 
 ## Running the tests
