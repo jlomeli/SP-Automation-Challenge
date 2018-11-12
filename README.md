@@ -12,6 +12,10 @@ Clone repository to your local folder
 ```
 $ git clone https://github.com/jlomeli/SP-Automation-Challenge.git
 ```
+Download selenium driver for Chrome browser and make a note of the path, you'll need to update the location of the chormedriver specific to your local environment
+```
+http://chromedriver.chromium.org/downloads
+```
 
 ## Running the tests
 
