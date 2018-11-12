@@ -27,7 +27,7 @@ public class BaseTest {
 	 */
 	@BeforeSuite
 	public void setUp() {
-		//Configure properties of the chrome browser driver, including location
+		//Configure properties of the chrome browser driver, including location which need to be change to where the chromedriver is stored on the local environment
 		System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
 		driver = new ChromeDriver();
 		baseUrl = "https://en.wikipedia.org";
